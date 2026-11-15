@@ -1,0 +1,1 @@
+{"name":"forge-github-core-clone-01","version":"1.0.0","private":false,"type":"module","description":"A dependency-free GitHub-compatible git forge","license":"MIT","engines":{"node":">=22.18"},"scripts":{"start":"node --experimental-strip-types main.ts"}}
